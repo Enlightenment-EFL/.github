@@ -7,3 +7,5 @@ This is the Enlightenment & EFL **mirror** of their repositories, use it only to
 This is the Enlightenment window-manager desktop by the Enlightenment Foundation Libraries (EFL) and also some extra applications
 
 If there's any repository missing, you can request to add it filling up an issue / discussion :)
+
+Issues / bug reports 🐛 ? report them to the official [Gitea website](https://git.enlightenment.org/)
